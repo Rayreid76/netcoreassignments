@@ -1,0 +1,11 @@
+C:\Users\Raymond\Desktop\Netcore\work\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.deps.json
+C:\Users\Raymond\Desktop\Netcore\work\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.runtimeconfig.json
+C:\Users\Raymond\Desktop\Netcore\work\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\Netcore\work\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.dll
+C:\Users\Raymond\Desktop\Netcore\work\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.pdb
+C:\Users\Raymond\Desktop\Netcore\work\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Desktop\Netcore\work\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\Netcore\work\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\Netcore\work\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\Netcore\work\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.dll
+C:\Users\Raymond\Desktop\Netcore\work\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.pdb
